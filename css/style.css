@@ -199,3 +199,21 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+/* footer */
+
+footer {
+    background-color: #df4929;
+}
+
+.button {
+  font: 12px;
+  text-decoration: none;
+  background-color: #df4929;
+  color: white;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px ;
+  border-right: 1px ;
+  border-bottom: 1px ;
+  border-left: 1px 
+}
